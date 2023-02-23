@@ -1,0 +1,24 @@
+h1{
+    color: rgba(233, 174, 72, 0.45); text-shadow: rgb(11, 11, 11) 0.1em 0.1em 0.2em
+}
+
+img{
+    width: 185px;
+    height: 278px;
+}
+
+.card{
+    background-color: rgba(233, 174, 72, 0.45);
+}
+
+main{
+    margin-bottom: 30px;
+}
+
+h2{
+    color: rgba(98, 72, 26, 0.45); text-shadow: rgb(245, 242, 242) 0.1em 0.0em 0.0em
+}
+
+body{
+    background: radial-gradient(#efc672, #908a7f);;
+}
